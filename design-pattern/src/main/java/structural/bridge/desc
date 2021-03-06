@@ -1,0 +1,4 @@
+桥接模式
+bridge design pattern
+通过组合解耦的方式，让一个类存在多个独立变化的维度，可以独立进行扩展
+比如这里的notification 和 msgSender就是两个变化的维度，使用的时候进行扩展即可
